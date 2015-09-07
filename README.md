@@ -2,7 +2,7 @@
 
 A Clojure library to write slowly changing dimensions and fact tables for star schemas.
 
-[![Build Status](https://circleci.com/gh/bhoflack/star.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/bhoflack/star.svg?style=shield&circle-token=:circle-token)
+[![Build Status](https://circleci.com/gh/bhoflack/star.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/bhoflack/star/tree/master)
 
 ## Usage
 
